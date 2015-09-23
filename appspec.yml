@@ -1,4 +1,4 @@
 os: linux
 files:
-  - source: /var/www/html/prashant/
+  - source: /
     destination: /var/www/html/
